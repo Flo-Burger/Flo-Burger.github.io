@@ -23,7 +23,7 @@ theme                    : jekyll-theme-minimal
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "Passfoto"
+  avatar           : "profile.png"
   name             : "Florian Burger"
   pronouns         : # example: "she/her"  
   bio              : "PhD Student at the MARCS Institute for Brain, Behaviour and Development"
