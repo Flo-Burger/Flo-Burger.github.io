@@ -106,7 +106,7 @@ Skills
   * Advanced Python Skills
   * MATLAB
   * R
-  * Trying to learn C++
+  * Learning C++
 * Neuroimaging Data
 * Project Managment 
 * Critical Thinking
