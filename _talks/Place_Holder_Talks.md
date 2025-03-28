@@ -4,7 +4,7 @@ collection: talks
 # type: "Talk"
 permalink: /talks/
 # venue: "UC San Francisco, Department of Testing"
-# date: 2012-03-01
+# date: 
 # location: "San Francisco, CA, USA"
 ---
 
