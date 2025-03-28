@@ -5,6 +5,9 @@ on:
     - cron: '0 9 1 * *'  # ⬅️ Runs at 09:00 UTC on the 1st of every month
   workflow_dispatch:  # Allows manual run via GitHub UI
 
+permissions:
+  contents: write
+
 jobs:
   update:
     runs-on: ubuntu-latest
