@@ -26,7 +26,7 @@ author:
   avatar           : "profile.png"
   name             : "Florian Burger"
   pronouns         : # example: "she/her"  
-  bio              : "PhD Student at the MARCS Institure for Brain, Behaviour and Development"
+  bio              : "PhD Student at the MARCS Institute for Brain, Behaviour and Development"
   location         : "Sydney, Australia"
   employer         : "Western Sydney University"
   uri              : # URL
@@ -78,8 +78,8 @@ author:
 
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
-  books:
-    title: 'Books'
+  # books:
+  #   title: 'Books'
   manuscripts:
     title: 'Journal Articles'    
   conferences:
