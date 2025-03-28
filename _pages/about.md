@@ -6,10 +6,9 @@ redirect_from:
   - /about/
   - /about.html
 ---
+Welcome to my page! 
 
-Hello, 
-
-Welcome to my page! I’m a cognitive neuroscience researcher currently doing my PhD at the MARCS Institute for Brain, Behaviour, and Development in sunny Sydney, Australia.  
+I’m a cognitive neuroscience researcher currently doing my PhD at the MARCS Institute for Brain, Behaviour, and Development in sunny Sydney, Australia.  
 My work focuses on how the brain makes sense of the visual world — specifically, how we recognize and process objects. I study this using neuroimaging, computational models like deep neural networks, and behavioral experiments.
 
 I’m fascinated by the overlap between human perception and artificial intelligence — how insights from neuroscience can help improve machine learning models, and how AI can help us understand the brain in new ways.
