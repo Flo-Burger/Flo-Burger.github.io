@@ -3,7 +3,7 @@ title: "Experimental Psychology Conference"
 collection: talks
 type: "Conference"
 venue: "University of New South Wales"
-date: 04.11.2015
+date: 17.06.2025
 location: "Sydney, Australia"
 ---
 

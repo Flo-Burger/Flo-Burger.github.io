@@ -3,7 +3,7 @@ title: "Information on Silicon and Neurons"
 collection: talks
 type: "Talk"
 venue: "Macquarie University"
-date: 04.11.2015
+date: 04.11.2025
 location: "Sydney, Australia"
 ---
 

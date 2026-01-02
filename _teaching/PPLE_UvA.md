@@ -2,8 +2,7 @@
 title: "University of Amsterdam/PPLE"
 collection: teaching
 type: "Undergraduate course"
-venue: "University of Amsterdam, PPLE"
-date: 2023-10-21
+venue: "University of Amsterdam"
 
 location: "Amsterdam, The Netherlands"
 ---
