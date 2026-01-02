@@ -7,7 +7,7 @@ excerpt: 'Object recognition in the human visual system is implemented within a 
 date: 21.05.2025
 venue: 'bioRxiv'
 # slidesurl: ''
-paperurl: 'https://www.biorxiv.org/content/10.1101/2025.05.19.654977v2.article-metrics'
+paperurl: 'https://www.biorxiv.org/content/10.1101/2025.05.19.654977v2'
 # bibtexurl: ''
 citation: 'Burger, F., Varlet, M., Quek, G.L., Grootswagers, T. (2025). Hierarchical Emergence Profiles of Human-Derived Dimensions are a Fundamental Property of Deep Neural Networks. Preprint.'
 ---

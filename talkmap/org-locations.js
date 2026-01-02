@@ -1,22 +1,22 @@
 var addressPoints = [
   [
-    "Talk 2 on Relevant Topic in Your Field<br />London School of Testing; London, UK",
-    51.4893335,
-    -0.14405508452768728
+    "Information on Silicon and Neurons<br />Macquarie University; Sydney, Australia",
+    -33.8698439,
+    151.2082848
   ],
   [
-    "Tutorial 1 on Relevant Topic in Your Field<br />UC-Berkeley Institute for Testing Science; Berkeley, CA, USA",
-    37.8708393,
-    -122.272863
+    "Australasian Cognitive Neuroscience Society Conference<br />Monash University/Deakin University; Melbourne, Australia",
+    -37.8142454,
+    144.9631732
   ],
   [
-    "Conference Proceeding talk 3 on Relevant Topic in Your Field<br />Testing Institute of America 2014 Annual Conference; Los Angeles, CA, USA",
-    34.0536909,
-    -118.242766
+    "Cognitive Computational Neuroscience Conference<br />University of Amsterdam; Amsterdam, The Netherlands",
+    52.3730796,
+    4.8924534
   ],
   [
-    "Talk 1 on Relevant Topic in Your Field<br />UC San Francisco, Department of Testing; San Francisco, CA, USA",
-    37.7792588,
-    -122.4193286
+    "Experimental Psychology Conference<br />University of New South Wales; Sydney, Australia",
+    -33.8698439,
+    151.2082848
   ]
 ];
