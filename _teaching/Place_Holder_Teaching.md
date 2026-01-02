@@ -1,12 +1,10 @@
 ---
-title: "Nothing Here"
+title: "University of Amsterdam/PPLE"
 collection: teaching
-# type: "Undergraduate course"
+type: "Undergraduate course"
 permalink: /teaching/
 # venue: "University 1, Department"
-date: 2015-10-21
+date: 2023-10-21
 
-# location: "City, Country"
+location: "Amsterdam, The Netherlands"
 ---
-
-_This section is coming soon!_
