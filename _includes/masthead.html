@@ -19,24 +19,27 @@
           <li class="masthead__menu-item"><a href="{{ domain }}{{ link.url }}">{{ link.title }}</a></li>
           {% endfor %}
           <li class="masthead__menu-item">
+            {% assign paper_urls = "" %}
+            {% for post in site.publications %}
+            {% if post.paperurl %}
+            {% assign paper_urls = paper_urls | append: post.paperurl | append: "," %}
+            {% endif %}
+            {% endfor %}
             <script>
-              function randomPaper() {
-                var papers = [
-                  {% for post in site.publications %}
-              {% if post.paperurl %}
-              "{{ post.paperurl }}",
-                {% endif %}
-              {% endfor %}
-                ];
-              if (papers.length > 0) {
-                var randomUrl = papers[Math.floor(Math.random() * papers.length)];
-                window.open(randomUrl, '_blank');
-              } else {
-                alert('No papers available at the moment!');
-              }
+              function randomPaper(element) {
+                var papersStr = element.getAttribute('data-papers');
+                if (papersStr) {
+                  var papers = papersStr.split(',').filter(Boolean);
+                  if (papers.length > 0) {
+                    var randomUrl = papers[Math.floor(Math.random() * papers.length)];
+                    window.open(randomUrl, '_blank');
+                  } else {
+                    alert('No papers available at the moment!');
+                  }
+                }
               }
             </script>
-            <a href="javascript:void(0);" onclick="randomPaper()">Surprise Me</a>
+            <a href="javascript:void(0);" data-papers="{{ paper_urls }}" onclick="randomPaper(this)">Surprise Me</a>
           </li>
           <li id="theme-toggle" class="masthead__menu-item persist tail">
             <a><i id="theme-icon" class="fa-solid fa-sun" aria-hidden="true" title="toggle theme"></i></a>
