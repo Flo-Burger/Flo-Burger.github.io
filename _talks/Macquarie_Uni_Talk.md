@@ -1,5 +1,5 @@
 ---
-title: "Information on Silicon and Neurons"
+title: "Information on Silicon and Neuron Workshop"
 collection: talks
 type: "Talk"
 venue: "Macquarie University"
