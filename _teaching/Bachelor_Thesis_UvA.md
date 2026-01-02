@@ -3,7 +3,7 @@ title: "University of Amsterdam/Psychology"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/
-# venue: "University 1, Department"
+venue: "University of Amsterdam, Psychology"
 date: 2023-10-21
 
 location: "Amsterdam, The Netherlands"
