@@ -7,12 +7,12 @@
 # server process.
 
 # Basic Site Settings
-locale                   : "en-US"
+locale                   : "en-AU"
 site_theme               : "jekyll-theme-minimal"
-title                    : "Florian Burger"
+title                    : "Florian Burger | Cognitive Neuroscience & AI"
 title_separator          : "-"
 name                     : &name "Florian Burger"
-description              : &description "PhD Student investigating the role of visual dimensions in object recognition"
+description              : &description "PhD student in cognitive neuroscience studying visual object recognition, EEG, fMRI, and deep neural networks."
 url                      : https://flo-burger.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
