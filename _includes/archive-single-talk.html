@@ -34,8 +34,8 @@
     {% if post.date %}<p class="page__meta"><i class="fa fa-clock" aria-hidden="true"></i> {{ post.date | date: '%B %d,
       %Y' }}</p>{% endif %}
     {% if post.venue %}<p class="archive__item-excerpt" itemprop="description">{{post.type}}, {{ post.venue }},
-      {{post.location}} {% endif %}
-      {% if post.content %}
-    <p class="archive__item-excerpt" itemprop="description">{{ post.content | markdownify }}</p>{% endif %}
+      {{post.location}}</p>{% endif %}
+    {% if post.content %}<div class="archive__item-excerpt" itemprop="description">{{ post.content | markdownify }}
+    </div>{% endif %}
   </article>
 </div>
