@@ -7,17 +7,15 @@ redirect_from:
   - /resume
 ---
 
-{% include base_path %}
-
 <div style="margin-bottom: 20px;">
-  <a href="{{ base_path }}/files/Florian_Burger_Academic_CV.pdf" class="btn btn--info" target="_blank" rel="noopener noreferrer">
+  <a href="{{ '/files/Florian_Burger_Academic_CV.pdf' | relative_url }}" class="btn btn--info" target="_blank" rel="noopener noreferrer">
     <i class="fas fa-fw fa-download" aria-hidden="true"></i> Download CV (PDF)
   </a>
 </div>
 
 <div class="cv-embed-container">
-  <iframe src="{{ base_path }}/files/Florian_Burger_Academic_CV.pdf" width="100%" height="800px" style="border: none;">
-    This browser does not support PDFs. Please download the PDF to view it: <a href="{{ base_path }}/files/Florian_Burger_Academic_CV.pdf">Download PDF</a>.
+  <iframe src="{{ '/files/Florian_Burger_Academic_CV.pdf' | relative_url }}" width="100%" height="800px" style="border: none;">
+    This browser does not support PDFs. Please download the PDF to view it: <a href="{{ '/files/Florian_Burger_Academic_CV.pdf' | relative_url }}">Download PDF</a>.
   </iframe>
 </div>
 
